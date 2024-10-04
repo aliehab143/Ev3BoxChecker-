@@ -1,5 +1,5 @@
 
-# ** Lego EV3 Box Checker Project**
+# **Lego EV3 Box Checker Project**
 ![LEGO Logo](https://logos-world.net/wp-content/uploads/2020/09/LEGO-Symbol.png)
 
 **EV3 Box Checker** is a Flutter-based mobile application designed to automate the process of verifying the contents of a LEGO Mindstorms EV3 kit using AI and image processing. The app integrates with a backend service to analyze images and identify whether all the components of the kit are present.
