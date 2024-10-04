@@ -1,4 +1,3 @@
-Here’s an enhanced version of your README file for the **EV3 Box Checker Project**:
 
 ---
 
