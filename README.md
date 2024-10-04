@@ -100,4 +100,3 @@ For any questions or support regarding this project, please feel free to reach o
 
 ---
 
-This README provides a complete overview of your project, guiding users through installation, usage, and contribution steps. You can further customize it by adding screenshots, GIFs, or links to demo videos.
