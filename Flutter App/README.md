@@ -26,7 +26,7 @@ The architecture consists of several key components:
 - **Segmentation Model**: An AI model responsible for image segmentation, identifying LEGO components in the images.
 - **Brickognize Service**: A specialized service that verifies the identified components based on pre-defined criteria.
 
-![System Architecture](path_to_architecture_image) <!-- Add an image link if hosted online -->
+
 
 ## **Technologies Used**
 
