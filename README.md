@@ -27,7 +27,10 @@ The architecture consists of several key components:
 
 Click the image below to watch the demo video:
 
-[![Demo Video](https://img.youtube.com/vi/-l1dDFbryz4/0.jpg)](https://youtu.be/-l1dDFbryz4)
+<video width="600" controls>
+  <source src="https://www.youtube.com/watch?v=-l1dDFbryz4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## **Technologies Used**
 
