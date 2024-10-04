@@ -25,7 +25,11 @@ The architecture consists of several key components:
 - **Segmentation Model**: An AI model responsible for image segmentation, identifying LEGO components in the images.
 - **Brickognize Service**: A specialized service that verifies the identified components based on pre-defined criteria.
 
+## **Demo Video**
 
+Click the image below to watch the demo video:
+
+[![Demo Video](https://img.youtube.com/vi/-l1dDFbryz4/0.jpg)](https://youtu.be/-l1dDFbryz4)
 
 ## **Technologies Used**
 
@@ -99,4 +103,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or support regarding this project, please feel free to reach out to the repository maintainer via [GitHub Issues](https://github.com/aliehab143/Ev3BoxChecker-/issues).
 
 ---
+```
 
+### Summary of Changes:
+- Added a **Demo Video** section with a thumbnail that links to your YouTube video.
+
+You can copy and paste the above Markdown code into your `README.md` file. Let me know if you need any more adjustments or help!
