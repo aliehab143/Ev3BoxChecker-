@@ -6,7 +6,7 @@
 
 ## **Project Overview**
 
-The **EV3 Box Checker** is aimed at helping educators, students, and hobbyists ensure that their LEGO Mindstorms EV3 kits contain all necessary pieces before or after a session. Using AI-driven image segmentation and object recognition, the app provides an easy, automated way to track missing or misplaced components in real-time.
+The **EV3 Box Checker** is aimed at helping educators, students, and hobbyists ensure that their LEGO Mindstorms EV3 kits contain all necessary pieces before or after a session. Using AI-driven image segmentation and object recognition, the app provides an easy, automated way to track missing components in real-time.
 
 ## **Features**
 
